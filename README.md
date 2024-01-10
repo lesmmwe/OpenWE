@@ -24,5 +24,5 @@ Requiere de conocimiento de programacion basico (GML)
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/teamdigitale/licenses/master/AGPL-3.0-or-later)
+[GNU Affero General Public License 3.0](https://raw.githubusercontent.com/teamdigitale/licenses/master/AGPL-3.0-or-later)
 
